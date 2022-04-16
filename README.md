@@ -19,7 +19,7 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 - 👯 I’m looking to collaborate on MERN Stack projects with other passionate developers.
 - 🥅 2021 Goals: Master React, Complete MERN Stack. Contribute to Open Source projects.
 - ⚡ Fun fact: I really love to travel and explore new things in my free time.
-- 📝
+- 📝 My specialty is I know how to solve a problem by google which is not a common skill. 
 
 <br />
 
