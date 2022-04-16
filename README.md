@@ -96,12 +96,12 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 
 ## Show some ❤️ by starring ⭐ some of the repositories!
 
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">](https://arnobtarafder.web.app/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">](https://mail.google.com/mail/?view=cm&fs=1&to=rmtarnob@gmail.com)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">](https://www.linkedin.com/in/rafid-mahmud-tarafder-0386b122a/)
-[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank">](https://arnobtarafder.medium.com/)
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" target="_blank">](https://www.facebook.com/arnob.tarafder.2058/)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" target="_blank">](https://www.instagram.com/arnob_tarafder/)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://arnobtarafder.web.app/){:target="_blank" rel="noopener"}
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=rmtarnob@gmail.com){:target="_blank" rel="noopener"}
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rafid-mahmud-tarafder-0386b122a/){:target="_blank" rel="noopener"}
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://arnobtarafder.medium.com/){:target="_blank" rel="noopener"}
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/arnob.tarafder.2058/){:target="_blank" rel="noopener"}
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/arnob_tarafder/){:target="_blank" rel="noopener"}
 
 </div>
 
