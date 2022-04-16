@@ -7,7 +7,6 @@
 A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka, Bangladesh(BD) 🌎. I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences on the web 🚀. 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=PriontoAbdullah.PriontoAbdullah)
-![age](https://img.shields.io/badge/age-24-blueviolet)
 ![focus](https://img.shields.io/badge/focus-FullStack-critical)
 ![living](https://img.shields.io/badge/living-Dhaka-ff69b4)
 ![projects](https://img.shields.io/badge/projects-33-important)
