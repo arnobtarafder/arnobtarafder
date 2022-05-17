@@ -22,12 +22,6 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 
 </div>
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=PriontoAbdullah.PriontoAbdullah)
-![focus](https://img.shields.io/badge/focus-FullStack-critical)
-![living](https://img.shields.io/badge/living-Dhaka-ff69b4)
-![projects](https://img.shields.io/badge/projects-33-important)
-
 <img width="40%" align="right" alt="Github Image" src="https://media.giphy.com/media/V21UwO1oh2nswmq08I/giphy.gif" />
 
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
