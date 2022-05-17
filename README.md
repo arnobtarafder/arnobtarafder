@@ -23,6 +23,8 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 
 <img width="40%" align="right" alt="Github Image" src="https://media.giphy.com/media/V21UwO1oh2nswmq08I/giphy.gif" />
 
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
+
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
 - 🌱 I’m currently learning TypeScript, NextJS, GraphQL and React-Native.
 - 👯 I’m looking to collaborate on MERN Stack projects with other passionate developers.
