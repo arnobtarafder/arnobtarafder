@@ -21,7 +21,7 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 
 </div>
 
-<img width="40%" align="right" alt="Github Image" src="https://media.giphy.com/media/V21UwO1oh2nswmq08I/giphy.gif" />
+<img align="right" alt="coding" width="350" src="https://i.ibb.co/Mkjg2y8/122.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
