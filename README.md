@@ -9,8 +9,8 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 
 <div align="center">
   
-## :mailbox: Reach me out
-
+<span align=""left>## :mailbox: Reach me out
+</span>
 
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://arnobtarafder.web.app/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=rmtarnob@gmail.com)
