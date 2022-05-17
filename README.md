@@ -7,10 +7,9 @@
 A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka, Bangladesh(BD) 🌎. I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences on the web 🚀. 
 
 
-<div align="center">
+<div align="left">
   
-<span align=""left>## :mailbox: Reach me out
-</span>
+## :mailbox: Reach me out
 
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://arnobtarafder.web.app/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=rmtarnob@gmail.com)
