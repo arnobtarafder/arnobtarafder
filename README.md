@@ -1,7 +1,7 @@
-<h1 align="left"> Hello, I'm Rafid Mahmud Tarafder (Arnob) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+### HI THERE !
 
-<h3 align="left">I'm an enthusiastic and passionate Web Developer from Bangladesh ❤</h3>  
-
+<h1>I'M Rafid Mahmud Tarafder <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> !</h1>
+<h3>Jr. Full Stack Developer</h3>
 
 <div align="left">
   
